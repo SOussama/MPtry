@@ -519,7 +519,7 @@ p.affichage1{
   border-radius: 5px; 
   width: 320px;
   height: 320px;
-  background: url(Images/math.jpg);
+  background: url(math.jpg);
   background-size: cover;
   color: white;
   border-radius: 5px;
@@ -534,7 +534,7 @@ p.affichage1{
   width: 320px;
   height: 320px;
   position: relative;
-  background: url(Images/physique.jpg);
+  background: url(physique.jpg);
   background-size: cover;
   color: black;
   border-radius: 5px;
@@ -554,7 +554,7 @@ p.affichage1{
   width: 320px;
   height: 320px;
   position: relative;
-  background: url(Images/chimie.jpg);
+  background: url(chimie.jpg);
   background-size: cover;
   color: white;
   border-radius: 5px;
